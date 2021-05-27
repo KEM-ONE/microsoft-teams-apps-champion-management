@@ -610,7 +610,7 @@ export default class ClbHome extends React.Component<
                 <div className={styles.grid}>
                   <div className={styles.quickguide}>Quick Start Guide</div>
                   <Row>
-                    <Col sm={4}>
+                    {/* <Col sm={4}>
                       <Media
                         className={styles.cursor}
                         onClick={() => this.setState({ cB: !this.state.cB })}
@@ -649,7 +649,7 @@ export default class ClbHome extends React.Component<
                           </div>
                         </Media>
                       </Col>
-                    )}
+                    )} */}
                     {(this.state.cV || this.state.clB) && (
                       <Col sm={4}>
                         <Media
@@ -669,7 +669,7 @@ export default class ClbHome extends React.Component<
                       </Col>
                     )}
                   </Row>
-                  {this.state.clB && !this.state.cV && (
+                  {/* {this.state.clB && !this.state.cV && (
                     <Row className="mt-4">
                       <Col sm={4}>
                         <Media className={styles.cursor}>
@@ -728,7 +728,7 @@ export default class ClbHome extends React.Component<
                         </Media>
                       </Col>
                     </Row>
-                  )}
+                  )} */}
                 </div>
               </div>
             )}

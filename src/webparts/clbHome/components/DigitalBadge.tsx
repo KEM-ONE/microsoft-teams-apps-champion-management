@@ -226,7 +226,7 @@ export default class DigitalBadge extends TeamsBaseComponent<
                   <Surface>
                     <Panel>
                       <PanelHeader>
-                        <div style={styles.header}>Digital Badge</div>
+                        <div style={styles.header}>Badge d'Ambassadeur</div>
                       </PanelHeader>
                       <PanelBody>
                         <div className={"DigitalBadge"} style={styles.section}>
@@ -290,7 +290,7 @@ export default class DigitalBadge extends TeamsBaseComponent<
                                         )}
                                       />
                                       <p onClick={this.props.clickcallback}>
-                                        How to get Champion Badge
+                                        Comment obtenir le badge d'Ambassadeur
                                       </p>
                                     </>
                                   )}

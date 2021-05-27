@@ -1,51 +1,51 @@
 export const PropertyPaneDescription = "Description";
-export const BasicGroupName = "Group Name";
-export const DescriptionFieldLabel = "Description Field";
+export const BasicGroupName = "Nom du groupe";
+export const DescriptionFieldLabel = "Description";
 export const PreAcceptPageTitle =
-  "Claim your badge for the Teamwork Champions Program";
-export const PageTitle = "Here's how your Teamwork Champion badge will look!";
+  "Recevez votre badge Ambassadeur Office 365";
+export const PageTitle = "Voilà à quoi va ressembler votre badge d'ambassadeur !";
 export const PreAcceptDisclaimer =
-  "<strong>Welcome to the Teamwork Champions Program</strong>. As part of your membership to the Champions Program, you have earned a digital badge! This utility will enable you to '<em>claim</em>' your digital badge by overlaying it on top of your existing profile picture. Please note that this will update your profile picture across all of Microsoft 365 (Exchange, Teams, SharePoint, etc).";
+  "<strong>Bienvenu dans le programme d'ambassadeurs Office 365</strong>. Grace à votre participation vou avez reçu un badge numérique ! Cette page vous permet de '<em>récupérer</em>' votre badge en l'ajoutant à votre photo de profil eactuelle. Veuillez noter que cela va changer votre image de profil sur l'ensemble des applications Office 365 (Outlook, Teams, Sharepoint, etc).";
 export const PreAcceptDisclaimer2 =
-  "If desired, <strong>you will have an opportunity to 'save' a copy of your existing profile picture</strong> without the digital badge overlay in the succeeding steps. Please click ‘Accept’ to continue (you might see a pop-up open and prompt for sign-in).";
+  "Si vous le désirez, <strong> vous aurez la  possibilité de 'sauvegarder' une copie de votre image de profil actuelle</strong> sans le badge dans les étapes qui suivent. Veuillez cliquer sur 'Accepter' pour continuer (il est possible qu'une pop-up vous demandant de vous connecter s'affiche).";
 export const NotQualifiedPreAcceptDisclaimer =
-  "<strong>Welcome to the Teamwork Champions Program</strong>. As part of your membership of the Champions Program, you can earn a digital badge! This utility will enable you to '<em>claim</em>' your digital badge by overlaying it on top of your existing profile picture. Please note that this will update your profile picture across all of Microsoft 365 (Exchange, Teams, SharePoint, etc.)";
+"<strong>Bienvenu dans le programme d'ambassadeurs Office 365</strong>. Grace à votre participation vou avez reçu un badge numérique ! Cette page vous permet de '<em>réclamer</em>' votre badge en l'ajoutant à votre photo de profil eactuelle. Veuillez noter que cela va changer votre image de profil sur l'ensemble des applications Office 365 (Outlook, Teams, Sharepoint, etc).";
 export const PreApplyDisclaimer =
-  "This is a preview of your new profile picture including the Teamwork Champion badge. If you wish to download your existing profile picture prior to applying the digital badge, click on the '<strong><em>Download your current profile image</em></strong>' link.<br />";
+  "Ceci est une prévisualisation de votre image de profile incluant votre badge d'Ambassadeur. Si vous souhaitez télécharger votre image de profile existante avant d'appliquer le badge numérique, cliquez sur le lien '<strong><em>Télécharger votre image de profile actuelle</em></strong>' link.<br />";
 export const PreApplyDisclaimer1 =
-  "<br />Clicking 'Apply Image' will update your Microsoft 365 profile picture with this new image. <strong>Please note this will update your profile picture across all of Microsoft 365 and cannot be reverted through this page</strong>. If you'd like to change your picture back, you can use the <a class='constAnchor' href='https://outlook.office365.com/owa/' target='_blank' aria-description='Open the Outlook web application in a new browser tab or window'>Outlook web application</a>.";
+  "<br />Cliquer sur 'Appliquer' va automatiquement mettre à jour votre image de profile sur Office 365 avec cette nouvelle image. <strong> Veuillez noter que cela va changer votre image de profil sur l'ensemble des applications Office 365 et ne pas être annulé avec cette page</strong>. Si vous souhaitez changer votre image vous pouvez utiliser les menu correspondants dans Teams, Outlook ou sur <a class='constAnchor' href='https://outlook.office365.com/owa/' target='_blank' aria-description='Open the Outlook web application in a new browser tab or window'>outlook.office365.com</a>";
 export const NoProfileImageDescription =
-  "If you have already associated a picture with your profile, and you’re still seeing this message, your picture might not be available yet. Please try again later, or contact the <a class='constAnchor' href='https://microsoft.service-now.com/' target='_blank' aria-description='Open the Outlook web application in a new browser tab or window'>helpdesk</a> if it still doesn’t show up after 24 hours.";
-export const AcceptButtonText = "Accept";
+  "Si vous avez déjà associer une image de profile à votre profile et que vous voyez toujours ce message, votre image pourrait ne pas encore être disponible. Veuillez réessayer plus tard ou contactez votre service de support informatique si elle ne s'affiche pas après 24 heures.";
+export const AcceptButtonText = "Appliquer";
 export const AcceptButtonAriaDescription =
-  "By clicking this button you're giving the Champions Program web part permission to update your profile picture on your behalf.";
-export const ApplyButtonText = "Apply image";
+  "En cliquant sur ce bouton vous donnez la permission au programme d'Ambassadeur de mettre à jour votre image de profile à votre place";
+export const ApplyButtonText = "Appliquer l'image";
 export const ApplyButtonAriaDescription =
-  "Click this button to apply the customized image to your profile.";
+  "Cliquez sur ce bouton pour appliquer le badge à votre image de profile";
 export const DownloadButtonAriaDescription =
-  "Click to download your current profile image";
+  "Cliquez pour télécharger votre image de profile actuelle";
 export const DownloadButtonSecondaryText =
-  "Download your current profile image";
+  "Télécharger votre image de profile actuelle";
 export const DownloadedButtonSecondaryText =
-  "Your downloaded profile image can be found in your device's Downloads folder.";
-export const DownloadButtonText = "Download";
-export const DownloadingButtonText = "Downloading...";
-export const DownloadedButtonText = "Downloaded";
-export const LoadingSpinnerLabel = "Loading...";
+  "Votre image de profil a été téléchargé et peut être retrouvé dans le repertoire téléchargement de votre appareil.";
+export const DownloadButtonText = "Télécharger";
+export const DownloadingButtonText = "Téléchargement...";
+export const DownloadedButtonText = "Téléchargée";
+export const LoadingSpinnerLabel = "Chargement...";
 export const ApplySpinnerLabel =
-  "Applying new profile image to your account...";
+  "application de votre nouvelle image de profile sur votre compte...";
 export const ProfileImageAlt =
-  "My profile image used across O365, Teams, etc";
+  "Mon image de profile utilisée sur O365, Teams, etc";
 export const BadgeImageAlt =
-  "Medal-shaped award with the letter C in the middle signifying I am a part of the Champions Program";
+  "Badge d'Ambassadeur Office 365";
 export const NoProfileImageAlt =
-  "Silhouette of a person, signifying no profile image is currently applied to your account";
+  "Silhouette d'une personne signifiant qu'aucun image de profile n'est actuellement utilisée";
 export const SuccessMessage =
-  "<strong>Congratulations!</strong> You have successfully claimed your Teamwork Champion badge and your profile picture has been updated. Please allow up to 24 hours to see the update reflected across all Microsoft 365 applications (including Teams).";
+  "<strong>Félicitations !</strong> Vous avez récupéré votre badge d'Ambassadeur avec succès et votre profile a été actualisé. Veuillez patienter 24 heures pour la mise à jour effectuée sur toute les applications Office 365 (incluant Teams).";
 export const ErrorMessage =
-  "There was an error applying the updated profile image to your account. Please try closing all browser windows and  try again. If the error persists please start a new conversation on the General channel of the program's Team.";
+  "Oups ! Il y a eu une erreur en appliquant votre image de profile à votre compte. Veuillez essayer de redémarrer Teams ou votre navigateur et réessayez. Si le problème persiste veuillez contacter le service de suport informatique.";
 export const BannerImageAlt = "Microsoft team members engaging in a discussion";
 /*unauthorized text to be shown for user who is not authorized*/
 export const UnauthorizedText =
-  "You are not qualified for Champion Badge Program at this time";
+  "Vous ne faites pas partie du programme d'Ambassadeurs ou vous n'avez pas les droits pour accéder à cette page.";
 export const ANCHOR_ID = "constAnchor";
